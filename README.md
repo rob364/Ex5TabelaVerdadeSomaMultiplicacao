@@ -1,0 +1,2 @@
+# Ex5TabelaVerdadeSomaMultiplicacao
+Ex5TabelaVerdadeSomaMultiplicacao
